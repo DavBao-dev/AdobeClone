@@ -4,9 +4,12 @@
 
 1. [**Tải bộ app Windows 64-bit (.zip)**](https://github.com/DavBao-dev/AdobeClone/releases/latest/download/AdobeClone-Windows-x64.zip).
 2. Nhấp chuột phải vào ZIP → **Extract All… / Giải nén tất cả**.
-3. Mở thư mục vừa giải nén → **Launchers** → nhấp đúp app muốn dùng.
+3. Mở thư mục vừa giải nén → nhấp đúp **Install.cmd** → chờ báo **Done!**.
+4. Nhấn phím **Windows**, gõ **PhotoCraft**, **FilmCraft** hoặc tên app muốn dùng, rồi nhấn **Enter**. Bạn cũng có thể mở biểu tượng app trên Desktop.
 
-**Không cần cài đặt, không cần nhập lệnh, không cần tài khoản.** Giữ nguyên các thư mục đi kèm; không mở app ngay bên trong ZIP.
+**Không cần nhập lệnh, không cần tài khoản, không cần quyền quản trị.** Trình cài chép app vào thư mục riêng của tài khoản Windows và tạo biểu tượng trong Start Menu lẫn Desktop. Cài xong có thể xóa ZIP và thư mục vừa giải nén. Windows Search có thể mất một chút thời gian để nhận các biểu tượng mới.
+
+Nếu chỉ muốn dùng portable, bỏ qua Install và mở **Launchers**. Với cách này, phải giữ nguyên thư mục đã giải nén.
 
 - **photocraft.cmd** — chỉnh sửa ảnh, tương tự Photoshop.
 - **vectorcraft.cmd** — vẽ vector, tương tự Illustrator.
@@ -20,7 +23,7 @@ Muốn mở cả 7 app, nhấp đúp **Open-Craft-Apps.cmd**.
 
 ## Nếu đã tải bằng Code → Download ZIP
 
-ZIP từ nút Code chứa hướng dẫn và trình tải, chưa có các ứng dụng dung lượng lớn. Giải nén, nhấp đúp **Download-Apps.cmd**, chờ tải hoàn tất, rồi mở **Launchers**. Bước tải cần mạng và chỉ thực hiện một lần. Hoặc dùng liên kết tải bộ đầy đủ ở trên để bỏ qua bước này.
+ZIP từ nút Code chứa hướng dẫn và trình tải, chưa có các ứng dụng dung lượng lớn. Giải nén, nhấp đúp **Install.cmd**: trình cài sẽ tải app, kiểm tra SHA256 rồi tạo các biểu tượng. Lần đầu cần mạng. Hoặc dùng liên kết tải bộ đầy đủ ở trên để cài từ các app có sẵn trong ZIP.
 
 ## Dữ liệu và máy hỗ trợ
 

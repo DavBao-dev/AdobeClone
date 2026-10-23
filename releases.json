@@ -1,0 +1,86 @@
+[
+  {
+    "app": "photocraft",
+    "version": "v0.14.0",
+    "assets": [
+      {
+        "name": "photocraft-0.14.0-windows-x64-portable.zip",
+        "size": 87615748,
+        "browser_download_url": "https://github.com/storytold/photocraft/releases/download/v0.14.0/photocraft-0.14.0-windows-x64-portable.zip",
+        "digest": "sha256:5b814c15034ddc68d35da837aef0cec18c90e9325f7682f516dfc331d64e9ab0"
+      }
+    ]
+  },
+  {
+    "app": "vectorcraft",
+    "version": "v0.16.0",
+    "assets": [
+      {
+        "name": "vectorcraft-0.16.0-windows-x64-portable.zip",
+        "size": 130093681,
+        "browser_download_url": "https://github.com/storytold/vectorcraft/releases/download/v0.16.0/vectorcraft-0.16.0-windows-x64-portable.zip",
+        "digest": "sha256:fcb2efc9087a91496413515197ca25540e63e089901158aabc4f4ea5c4e2b530"
+      }
+    ]
+  },
+  {
+    "app": "pdfcraft",
+    "version": "v0.13.0",
+    "assets": [
+      {
+        "name": "pdfcraft-0.13.0-windows-x64-portable.zip",
+        "size": 88133416,
+        "browser_download_url": "https://github.com/storytold/pdfcraft/releases/download/v0.13.0/pdfcraft-0.13.0-windows-x64-portable.zip",
+        "digest": "sha256:60c3fcb28548f3ab09e332c0cc5388f17e38d2c3ccbbe9f1a2c7080844387629"
+      }
+    ]
+  },
+  {
+    "app": "lightcraft",
+    "version": "v0.13.0",
+    "assets": [
+      {
+        "name": "lightcraft-0.13.0-windows-x64-portable.zip",
+        "size": 110851899,
+        "browser_download_url": "https://github.com/storytold/lightcraft/releases/download/v0.13.0/lightcraft-0.13.0-windows-x64-portable.zip",
+        "digest": "sha256:92f9d3c43ef2e7a493912518bf8c8691da0bb417768e00f599b2378e5c043c2c"
+      }
+    ]
+  },
+  {
+    "app": "filmcraft",
+    "version": "v0.12.0",
+    "assets": [
+      {
+        "name": "filmcraft-0.12.0-windows-x64-portable.zip",
+        "size": 70839726,
+        "browser_download_url": "https://github.com/storytold/filmcraft/releases/download/v0.12.0/filmcraft-0.12.0-windows-x64-portable.zip",
+        "digest": "sha256:6732c6151e532eaa548d8039740091db813730e7112fdf3ab2837a1cf0ad0c3a"
+      }
+    ]
+  },
+  {
+    "app": "effectcraft",
+    "version": "v0.16.0",
+    "assets": [
+      {
+        "name": "effectcraft-0.16.0-windows-x64-portable.zip",
+        "size": 67509258,
+        "browser_download_url": "https://github.com/storytold/effectcraft/releases/download/v0.16.0/effectcraft-0.16.0-windows-x64-portable.zip",
+        "digest": "sha256:ed962f8e91a6b94b8876a59abdb98724efafd3e351d8e5b0ca4027a447d75ede"
+      }
+    ]
+  },
+  {
+    "app": "designcraft",
+    "version": "v0.12.0",
+    "assets": [
+      {
+        "name": "designcraft-0.12.0-windows-x64-portable.zip",
+        "size": 81429644,
+        "browser_download_url": "https://github.com/storytold/designcraft/releases/download/v0.12.0/designcraft-0.12.0-windows-x64-portable.zip",
+        "digest": "sha256:c6af5526facacec22d7cb51c3418e445320a8933069e2984535fe9419c7ab897"
+      }
+    ]
+  }
+]

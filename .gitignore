@@ -1,0 +1,9 @@
+/installed/
+/downloads/
+/*Data/
+/data/
+/my-lightcraft-library/
+/smoke-tests/
+*.log
+*-token.txt
+*-control*.json
